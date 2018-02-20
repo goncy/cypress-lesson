@@ -1,4 +1,4 @@
-🇪🇸 [Ve esta lección en español](./README.md)
+🇪🇸 [Ver esta lección en español](./README.md)
 
 ---
 
