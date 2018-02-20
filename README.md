@@ -1,3 +1,7 @@
+🇺🇸🇬🇧 [See this lesson in english](./README.md)
+
+---
+
 # 👋 Hola mundo!
 
 Este proyecto te va a mostrar como hacer tests de integración fáciles para tu app con [Cypress](https://www.cypress.io/), decidí hacerlo en español por que hay mucha gente que le interesa este tema y no tiene conocimientos de inglés, asi que aportamos un poco a la comunidad latina 💪
@@ -157,7 +161,7 @@ describe("Humor", () => {
     cy.route("GET", "/humor/miercoles", "😐"); // Le decimos a Cypress que cada pedido http dentro de nuestra app a /humor/lunes, debe devolver 😐"
     cy.route("GET", "/humor/viernes", "😃"); // Le decimos a Cypress que cada pedido http dentro de nuestra app a /humor/lunes, debe devolver 😃
 
-    cy.visit("/"); // Le decimos a nuestra a Cypress que vaya al inicio de nuestra app
+    cy.visit("/"); // Le decimos a Cypress que vaya al inicio de nuestra app
   });
 
   it("debería devolver una cara triste si es lunes", () => {
