@@ -1,4 +1,4 @@
-🇺🇸🇬🇧 [See this lesson in english](./README.md)
+🇺🇸🇬🇧 [See this lesson in english](./README-EN.md)
 
 ---
 
