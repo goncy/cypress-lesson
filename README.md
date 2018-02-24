@@ -204,7 +204,7 @@ Cypress tiene muchas cosas para probar y hacer, podes investigar un poco su 📚
 
 ## 📚 Más lecciones
 * [Recompose](https://github.com/goncy/recompose-lesson)
-* [Cypress](https://github.com/goncy/cypress-lesson)
+* [Ramda](https://github.com/goncy/ramda-lesson)
 ---
 *Si encontras un error, typo, cagada, moco o calificativo negativo, avisame o haceme un PR, gracias!*
 

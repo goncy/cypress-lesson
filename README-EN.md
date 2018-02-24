@@ -201,7 +201,7 @@ Cypress has a lot of cool things to try, you can find more information on it's ð
 
 ## ðŸ“š More lessons
 * [Recompose](https://github.com/goncy/recompose-lesson)
-* [Cypress](https://github.com/goncy/cypress-lesson)
+* [Ramda](https://github.com/goncy/ramda-lesson)
 ---
 *If you find something wrong, please, let me know or do a PR!*
 
