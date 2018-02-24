@@ -202,6 +202,9 @@ Ahora nuestros tests pasan!, pero nuestra app no funciona 😭, esto es por que 
 
 Cypress tiene muchas cosas para probar y hacer, podes investigar un poco su 📚[documentación](https://docs.cypress.io/) y empezar a testear tus apps!
 
+## 📚 Más lecciones
+* [Recompose](https://github.com/goncy/recompose-lesson)
+* [Cypress](https://github.com/goncy/cypress-lesson)
 ---
 *Si encontras un error, typo, cagada, moco o calificativo negativo, avisame o haceme un PR, gracias!*
 
